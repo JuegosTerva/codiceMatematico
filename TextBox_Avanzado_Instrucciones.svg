@@ -25,14 +25,14 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="0.54602064"
-     inkscape:cx="565.91268"
+     inkscape:cx="763.70739"
      inkscape:cy="328.74215"
      inkscape:window-width="1920"
      inkscape:window-height="1012"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3">
+     inkscape:current-layer="text30254">
     <sodipodi:guide
        position="611.69848,398.33658"
        orientation="0,-1"
@@ -214,218 +214,281 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="texto">
-    <text
-       xml:space="preserve"
-       style="font-size:50px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:Chilanka"
-       x="84.433083"
-       y="257.96027"
-       id="text30254"><tspan
-         sodipodi:role="line"
-         id="tspan30252"
-         x="84.433083"
-         y="257.96027"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic">Usa</tspan></text>
-    <image
-       width="63.223598"
-       height="67.838455"
-       preserveAspectRatio="none"
-       xlink:href="data:image/png;base64,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
-SUVORK5CYII=
-"
-       id="image39680"
-       x="235.18822"
-       y="200.64978" />
-    <text
-       xml:space="preserve"
-       style="font-size:50px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:Chilanka"
-       x="327.30878"
-       y="259.00745"
-       id="text39688"><tspan
-         sodipodi:role="line"
-         id="tspan39686"
-         x="327.30878"
-         y="259.00745"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic">para obtener un nuevo</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:50px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:Chilanka"
-       x="76.429955"
-       y="335.66928"
-       id="text40220"><tspan
-         sodipodi:role="line"
-         id="tspan40218"
-         x="76.429955"
-         y="335.66928"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic">numero.</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:50px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:Chilanka"
-       x="84.682526"
-       y="440.97318"
-       id="text41570"><tspan
-         sodipodi:role="line"
-         id="tspan41568"
-         x="84.682526"
-         y="440.97318"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic">Usa</tspan></text>
+    <g
+       aria-label="Usa"
+       id="text30254"
+       style="font-size:50px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:Chilanka">
+      <path
+         d="m 94.833083,242.46027 c 0.6,16.25 5.399997,15.65 15.849997,15.65 10.35,0 14.95,0.6 15.7,-15.65 l 1.25,-26.9 h -8.5 l 0.8,21.25 c 0.45,12 -3.25,12 -9.25,12 -6.05,0 -9.85,0 -9.4,-12 l 0.8,-21.25 h -8.149997 z"
+         style="font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic"
+         id="path1102" />
+      <path
+         d="m 165.23301,230.51027 c -2.5,-0.55 -5.5,-1.2 -8.85,-1.2 -8.65,0 -10.4,4.45 -10.4,8.1 0,6.55 6.1,8.05 8.35,8.4 3.5,0.7 6.55,1.7 6.55,3.3 0,2.85 -3.3,2.65 -5.05,2.5 -3.05,-0.25 -4.25,-0.55 -7.15,-1.65 l -4.9,5.55 c 2.2,1.65 2.8,3.15 11.95,3.15 7.55,0 11.4,-1.55 11.4,-8.45 0,-3.9 -1.45,-6 -9.7,-8.55 -4.35,-1.35 -7.65,-2.85 -7.7,-4.45 -0.05,-2.25 0.75,-4.1 7.2,-4.1 1.75,0.1 2.9,0 6,0.4 z"
+         style="font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic"
+         id="path1104" />
+      <path
+         d="m 190.63288,258.66027 c 4,0 7.6,-1.55 9.5,-4.8 v 4.1 h 5 l -2.85,-27.35 h -3.55 l 0.1,2.9 c -1.8,-2.9 -4.55,-4 -8.5,-3.45 -2.85,0.4 -8.65,1.95 -10.5,12.3 -1.9,10.6 2.95,16.3 10.8,16.3 z m -0.6,-7.6 c -5.9,0 -7.1,-2.95 -6.5,-7.4 0.95,-6.9 5.05,-9.4 7.85,-9.4 3.35,0 7.05,1.15 7.05,8.75 0,2.45 -0.35,8.05 -8.4,8.05 z"
+         style="font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic"
+         id="path1106" />
+    </g>
+    <g
+       aria-label="para obtener un nuevo"
+       id="text39688"
+       style="font-size:50px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:Chilanka">
+      <path
+         d="m 343.55878,254.90745 c 1.35,3.25 4.75,4.85 8.75,4.85 7.9,0 11.2,-7.05 11.2,-14.9 0,-8.25 -4.55,-13.3 -11.2,-13.5 -4,-0.1 -6.9,1.55 -8.75,4.8 l -0.9,-3.75 h -4.5 l 0.8,14.75 -4,22.45 6.45,-0.4 z m 15.55,-11 c 0.2,5.3 -1.15,8.4 -5.9,8.4 -4.75,0 -8.35,-3.1 -8.35,-8.4 0,-5.3 3.95,-8.55 8.1,-8.55 4.15,0 5.95,3.25 6.15,8.55 z"
+         style="font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic"
+         id="path1109" />
+      <path
+         d="m 387.00865,259.70745 c 4,0 7.6,-1.55 9.5,-4.8 v 4.1 h 5 l -2.85,-27.35 h -3.55 l 0.1,2.9 c -1.8,-2.9 -4.55,-4 -8.5,-3.45 -2.85,0.4 -8.65,1.95 -10.5,12.3 -1.9,10.6 2.95,16.3 10.8,16.3 z m -0.6,-7.6 c -5.9,0 -7.1,-2.95 -6.5,-7.4 0.95,-6.9 5.05,-9.4 7.85,-9.4 3.35,0 7.05,1.15 7.05,8.75 0,2.45 -0.35,8.05 -8.4,8.05 z"
+         style="font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic"
+         id="path1111" />
+      <path
+         d="m 430.70857,231.55745 c -5.8,0.3 -7.2,1.05 -9.95,3.15 v -2.95 h -4.65 c 0,11.4 -0.25,17.45 -2.3,27.25 h 9.05 c -1.45,-8.2 -1.15,-11.4 -1.15,-14.3 0,-4.85 0.9,-8.7 9.75,-6.85 z"
+         style="font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic"
+         id="path1113" />
+      <path
+         d="m 452.95847,259.70745 c 4,0 7.6,-1.55 9.5,-4.8 v 4.1 h 5 l -2.85,-27.35 h -3.55 l 0.1,2.9 c -1.8,-2.9 -4.55,-4 -8.5,-3.45 -2.85,0.4 -8.65,1.95 -10.5,12.3 -1.9,10.6 2.95,16.3 10.8,16.3 z m -0.6,-7.6 c -5.9,0 -7.1,-2.95 -6.5,-7.4 0.95,-6.9 5.05,-9.4 7.85,-9.4 3.35,0 7.05,1.15 7.05,8.75 0,2.45 -0.35,8.05 -8.4,8.05 z"
+         style="font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic"
+         id="path1115" />
+      <path
+         d="m 538.15837,259.65745 c 8.1,0 13.05,-5.85 13.05,-14.3 0,-8.8 -4.95,-14.35 -13.05,-14.35 -8.15,0 -13.05,5.55 -13.05,14.35 0,8.45 4.9,14.3 13.05,14.3 z m 0,-7.45 c -6,0 -8.1,-1.15 -8.1,-7.7 0,-6.95 3.1,-9.1 8.1,-9.1 5,0 8.1,2.15 8.1,9.1 0,6.55 -2.1,7.7 -8.1,7.7 z"
+         style="font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic"
+         id="path1117" />
+      <path
+         d="m 576.40832,259.70745 c 6.65,0 13.25,-6.75 13.25,-15.35 0,-7.2 -5.85,-13.35 -13.25,-13.15 -5.4,0.15 -7.7,5.15 -7.7,1.4 v -16.1 h -6.7 c 1.5,18.15 1.75,35.3 2.8,37.55 1.3,3.6 4.45,5.65 11.6,5.65 z m 1.05,-8 c -6.5,0 -7.6,-2.05 -7.6,-7.15 0,-5.3 2.85,-8.95 7.6,-8.95 4.8,0 7.3,3.8 7.3,8.75 0,4.1 -3.3,7.05 -7.3,7.35 z"
+         style="font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic"
+         id="path1119" />
+      <path
+         d="m 609.80823,247.95745 0.5,-12.95 h 8.45 l -0.9,-3.35 h -7.45 l 0.35,-9.5 -5.2,3 c -0.2,2.2 -0.35,4.35 -0.5,6.5 h -5.15 l -1.45,3.35 h 6.4 c -0.75,11.3 -1.05,20.55 -1.05,21.5 0,0.35 0.2,2.5 1.9,2.5 2.35,0 11.15,0 13,-0.1 l -0.95,-6.4 c -7.95,-0.2 -8.1,-0.1 -7.95,-4.55 z"
+         style="font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic"
+         id="path1121" />
+      <path
+         d="m 654.7582,243.25745 c -1.6,-9.05 -6.65,-12.8 -12.25,-13.25 -8.25,0 -13.6,6.65 -13.95,15.6 0,8.65 6,14.1 14.7,14.1 3.55,0 6.8,-0.7 10.05,-2.1 v -6.2 c -3.85,1.65 -6.2,2.05 -9.9,1.65 -7.05,-0.75 -10.3,-3.65 -10.3,-8.4 z m -21,-2.45 c 0,-3.3 3.65,-7.1 8.75,-7.45 5.2,-0.35 6.75,2.85 7.25,5.9 z"
+         style="font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic"
+         id="path1123" />
+      <path
+         d="m 690.40808,242.85745 c -0.5,-7.2 -3.9,-11.7 -10.15,-11.7 -3.8,0 -5.7,1.65 -8.05,2.75 l -0.85,-2.2 h -3.3 l -2,27.3 h 7.4 l -0.7,-15.2 c -0.2,-4.5 1.5,-8.4 7,-8.4 4,0 5.5,2.3 5.35,7.15 l -0.55,16.45 h 6.95 z"
+         style="font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic"
+         id="path1125" />
+      <path
+         d="m 729.50796,243.25745 c -1.6,-9.05 -6.65,-12.8 -12.25,-13.25 -8.25,0 -13.6,6.65 -13.95,15.6 0,8.65 6,14.1 14.7,14.1 3.55,0 6.8,-0.7 10.05,-2.1 v -6.2 c -3.85,1.65 -6.2,2.05 -9.9,1.65 -7.05,-0.75 -10.3,-3.65 -10.3,-8.4 z m -21,-2.45 c 0,-3.3 3.65,-7.1 8.75,-7.45 5.2,-0.35 6.75,2.85 7.25,5.9 z"
+         style="font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic"
+         id="path1127" />
+      <path
+         d="m 757.20793,231.55745 c -5.8,0.3 -7.2,1.05 -9.95,3.15 v -2.95 h -4.65 c 0,11.4 -0.25,17.45 -2.3,27.25 h 9.05 c -1.45,-8.2 -1.15,-11.4 -1.15,-14.3 0,-4.85 0.9,-8.7 9.75,-6.85 z"
+         style="font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic"
+         id="path1129" />
+      <path
+         d="m 826.25776,259.80745 c 2.9,0 7.1,-0.5 8.8,-5 l -0.2,4.2 h 5.45 l -1,-28 h -4.95 l -0.35,12.75 c -0.15,5.8 -0.4,7.15 -6.75,7.2 -5.85,0.05 -5.45,-1.35 -5.85,-6.8 l -1,-13.15 h -4.8 l 1.05,17.2 c 0.6,9.45 3.45,11.6 9.6,11.6 z"
+         style="font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic"
+         id="path1131" />
+      <path
+         d="m 876.95764,242.85745 c -0.5,-7.2 -3.9,-11.7 -10.15,-11.7 -3.8,0 -5.7,1.65 -8.05,2.75 l -0.85,-2.2 h -3.3 l -2,27.3 h 7.4 l -0.7,-15.2 c -0.2,-4.5 1.5,-8.4 7,-8.4 4,0 5.5,2.3 5.35,7.15 l -0.55,16.45 h 6.95 z"
+         style="font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic"
+         id="path1133" />
+      <path
+         d="m 960.0575,242.85745 c -0.5,-7.2 -3.9,-11.7 -10.15,-11.7 -3.8,0 -5.7,1.65 -8.05,2.75 l -0.85,-2.2 h -3.3 l -2,27.3 h 7.4 l -0.7,-15.2 c -0.2,-4.5 1.5,-8.4 7,-8.4 4,0 5.5,2.3 5.35,7.15 l -0.55,16.45 h 6.95 z"
+         style="font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic"
+         id="path1135" />
+      <path
+         d="m 982.60743,259.80745 c 2.9,0 7.1,-0.5 8.8,-5 l -0.2,4.2 h 5.45 l -1,-28 h -4.95 l -0.35,12.75 c -0.15,5.8 -0.4,7.15 -6.75,7.2 -5.85,0.05 -5.45,-1.35 -5.85,-6.8 l -1,-13.15 h -4.8 l 1.05,17.2 c 0.6,9.45 3.45,11.6 9.6,11.6 z"
+         style="font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic"
+         id="path1137" />
+      <path
+         d="m 1034.6573,243.25745 c -1.6,-9.05 -6.65,-12.8 -12.25,-13.25 -8.25,0 -13.6,6.65 -13.95,15.6 0,8.65 6,14.1 14.7,14.1 3.55,0 6.8,-0.7 10.05,-2.1 v -6.2 c -3.85,1.65 -6.2,2.05 -9.9,1.65 -7.05,-0.75 -10.3,-3.65 -10.3,-8.4 z m -21,-2.45 c 0,-3.3 3.65,-7.1 8.75,-7.45 5.2,-0.35 6.75,2.85 7.25,5.9 z"
+         style="font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic"
+         id="path1139" />
+      <path
+         d="m 1053.4573,259.00745 h 9.2 l 1,-7.2 9,-20.15 h -4.75 l -9.6,20.05 -10.6,-20.05 h -4.75 l 9.1,20.15 z"
+         style="font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic"
+         id="path1141" />
+      <path
+         d="m 1094.0072,259.65745 c 8.1,0 13.05,-5.85 13.05,-14.3 0,-8.8 -4.95,-14.35 -13.05,-14.35 -8.15,0 -13.05,5.55 -13.05,14.35 0,8.45 4.9,14.3 13.05,14.3 z m 0,-7.45 c -6,0 -8.1,-1.15 -8.1,-7.7 0,-6.95 3.1,-9.1 8.1,-9.1 5,0 8.1,2.15 8.1,9.1 0,6.55 -2.1,7.7 -8.1,7.7 z"
+         style="font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic"
+         id="path1143" />
+    </g>
+    <g
+       aria-label="numero."
+       id="text40220"
+       style="font-size:50px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:Chilanka">
+      <path
+         d="m 108.42995,319.51928 c -0.5,-7.2 -3.9,-11.7 -10.149995,-11.7 -3.8,0 -5.7,1.65 -8.05,2.75 l -0.85,-2.2 h -3.3 l -2,27.3 h 7.4 l -0.7,-15.2 c -0.2,-4.5 1.5,-8.4 7,-8.4 3.999995,0 5.499995,2.3 5.349995,7.15 l -0.55,16.45 h 6.95 z"
+         style="font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic"
+         id="path1146" />
+      <path
+         d="m 130.97988,336.46928 c 2.9,0 7.1,-0.5 8.8,-5 l -0.2,4.2 h 5.45 l -1,-28 h -4.95 l -0.35,12.75 c -0.15,5.8 -0.4,7.15 -6.75,7.2 -5.85,0.05 -5.45,-1.35 -5.85,-6.8 l -1,-13.15 h -4.8 l 1.05,17.2 c 0.6,9.45 3.45,11.6 9.6,11.6 z"
+         style="font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic"
+         id="path1148" />
+      <path
+         d="m 185.02984,313.56928 c -1.35,-4 -4.65,-6.1 -8.65,-6.1 -3.5,0 -6.75,1.75 -8.8,5.1 l 0.5,-4.25 h -4.5 l -3.25,27.35 h 6.25 l 1.3,-16.15 c 0.2,-2.75 3.35,-7.4 7.95,-7.4 3.85,0 6.7,3.3 5.7,7.7 l -3.55,15.85 h 6.2 l 2.1,-13.95 c 0.85,-5.5 2.6,-9.3 7.3,-9.3 3.8,0 5.45,2.45 4.9,7.65 l -1.7,15.6 h 6.75 l -0.55,-15 c -0.3,-8 -2.7,-13.2 -8.9,-13.2 -3.85,0 -6.8,1.95 -9.05,6.1 z"
+         style="font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic"
+         id="path1150" />
+      <path
+         d="m 245.02974,319.91928 c -1.6,-9.05 -6.65,-12.8 -12.25,-13.25 -8.25,0 -13.6,6.65 -13.95,15.6 0,8.65 6,14.1 14.7,14.1 3.55,0 6.8,-0.7 10.05,-2.1 v -6.2 c -3.85,1.65 -6.2,2.05 -9.9,1.65 -7.05,-0.75 -10.3,-3.65 -10.3,-8.4 z m -21,-2.45 c 0,-3.3 3.65,-7.1 8.75,-7.45 5.2,-0.35 6.75,2.85 7.25,5.9 z"
+         style="font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic"
+         id="path1152" />
+      <path
+         d="m 272.72974,308.21928 c -5.8,0.3 -7.2,1.05 -9.95,3.15 v -2.95 h -4.65 c 0,11.4 -0.25,17.45 -2.3,27.25 h 9.05 c -1.45,-8.2 -1.15,-11.4 -1.15,-14.3 0,-4.85 0.9,-8.7 9.75,-6.85 z"
+         style="font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic"
+         id="path1154" />
+      <path
+         d="m 297.32966,336.31928 c 8.1,0 13.05,-5.85 13.05,-14.3 0,-8.8 -4.95,-14.35 -13.05,-14.35 -8.15,0 -13.05,5.55 -13.05,14.35 0,8.45 4.9,14.3 13.05,14.3 z m 0,-7.45 c -6,0 -8.1,-1.15 -8.1,-7.7 0,-6.95 3.1,-9.1 8.1,-9.1 5,0 8.1,2.15 8.1,9.1 0,6.55 -2.1,7.7 -8.1,7.7 z"
+         style="font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic"
+         id="path1156" />
+      <path
+         d="m 320.52961,335.76928 h 8.25 v -8.25 h -8.25 z"
+         style="font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic"
+         id="path1158" />
+    </g>
+    <g
+       aria-label="Usa"
+       id="text41570"
+       style="font-size:50px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:Chilanka">
+      <path
+         d="m 95.082526,425.47318 c 0.6,16.25 5.400004,15.65 15.850004,15.65 10.35,0 14.95,0.6 15.7,-15.65 l 1.25,-26.9 h -8.5 l 0.8,21.25 c 0.45,12 -3.25,12 -9.25,12 -6.05,0 -9.85,0 -9.4,-12 l 0.8,-21.25 h -8.150004 z"
+         style="font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic"
+         id="path1161" />
+      <path
+         d="m 165.48245,413.52318 c -2.5,-0.55 -5.5,-1.2 -8.85,-1.2 -8.65,0 -10.4,4.45 -10.4,8.1 0,6.55 6.1,8.05 8.35,8.4 3.5,0.7 6.55,1.7 6.55,3.3 0,2.85 -3.3,2.65 -5.05,2.5 -3.05,-0.25 -4.25,-0.55 -7.15,-1.65 l -4.9,5.55 c 2.2,1.65 2.8,3.15 11.95,3.15 7.55,0 11.4,-1.55 11.4,-8.45 0,-3.9 -1.45,-6 -9.7,-8.55 -4.35,-1.35 -7.65,-2.85 -7.7,-4.45 -0.05,-2.25 0.75,-4.1 7.2,-4.1 1.75,0.1 2.9,0 6,0.4 z"
+         style="font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic"
+         id="path1163" />
+      <path
+         d="m 190.88232,441.67318 c 4,0 7.6,-1.55 9.5,-4.8 v 4.1 h 5 l -2.85,-27.35 h -3.55 l 0.1,2.9 c -1.8,-2.9 -4.55,-4 -8.5,-3.45 -2.85,0.4 -8.65,1.95 -10.5,12.3 -1.9,10.6 2.95,16.3 10.8,16.3 z m -0.6,-7.6 c -5.9,0 -7.1,-2.95 -6.5,-7.4 0.95,-6.9 5.05,-9.4 7.85,-9.4 3.35,0 7.05,1.15 7.05,8.75 0,2.45 -0.35,8.05 -8.4,8.05 z"
+         style="font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic"
+         id="path1165" />
+    </g>
+    <g
+       aria-label="para comprobar tu"
+       id="text41634"
+       style="font-size:50px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:Chilanka">
+      <path
+         d="m 346.58548,432.89008 c 1.35,3.25 4.75,4.85 8.75,4.85 7.9,0 11.2,-7.05 11.2,-14.9 0,-8.25 -4.55,-13.3 -11.2,-13.5 -4,-0.1 -6.9,1.55 -8.75,4.8 l -0.9,-3.75 h -4.5 l 0.8,14.75 -4,22.45 6.45,-0.4 z m 15.55,-11 c 0.2,5.3 -1.15,8.4 -5.9,8.4 -4.75,0 -8.35,-3.1 -8.35,-8.4 0,-5.3 3.95,-8.55 8.1,-8.55 4.15,0 5.95,3.25 6.15,8.55 z"
+         style="font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic"
+         id="path1168" />
+      <path
+         d="m 390.03536,437.69008 c 4,0 7.6,-1.55 9.5,-4.8 v 4.1 h 5 l -2.85,-27.35 h -3.55 l 0.1,2.9 c -1.8,-2.9 -4.55,-4 -8.5,-3.45 -2.85,0.4 -8.65,1.95 -10.5,12.3 -1.9,10.6 2.95,16.3 10.8,16.3 z m -0.6,-7.6 c -5.9,0 -7.1,-2.95 -6.5,-7.4 0.95,-6.9 5.05,-9.4 7.85,-9.4 3.35,0 7.05,1.15 7.05,8.75 0,2.45 -0.35,8.05 -8.4,8.05 z"
+         style="font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic"
+         id="path1170" />
+      <path
+         d="m 433.73527,409.54008 c -5.8,0.3 -7.2,1.05 -9.95,3.15 v -2.95 h -4.65 c 0,11.4 -0.25,17.45 -2.3,27.25 h 9.05 c -1.45,-8.2 -1.15,-11.4 -1.15,-14.3 0,-4.85 0.9,-8.7 9.75,-6.85 z"
+         style="font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic"
+         id="path1172" />
+      <path
+         d="m 455.98518,437.69008 c 4,0 7.6,-1.55 9.5,-4.8 v 4.1 h 5 l -2.85,-27.35 h -3.55 l 0.1,2.9 c -1.8,-2.9 -4.55,-4 -8.5,-3.45 -2.85,0.4 -8.65,1.95 -10.5,12.3 -1.9,10.6 2.95,16.3 10.8,16.3 z m -0.6,-7.6 c -5.9,0 -7.1,-2.95 -6.5,-7.4 0.95,-6.9 5.05,-9.4 7.85,-9.4 3.35,0 7.05,1.15 7.05,8.75 0,2.45 -0.35,8.05 -8.4,8.05 z"
+         style="font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic"
+         id="path1174" />
+      <path
+         d="m 546.38508,409.34008 c -1.05,-0.35 -3.85,-0.65 -6.25,-0.6 -8.45,0.2 -12,4.7 -12,14.6 0,8.8 3.15,13.3 13.5,14 3.05,0.2 6.2,-0.15 8.55,-1.55 l -4.7,-5.1 c -5.25,2.6 -11.8,-0.85 -12.3,-7.35 0,-7.45 3.1,-10.4 7.95,-10.45 1.4,0 3.65,0.25 5.25,0.75 z"
+         style="font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic"
+         id="path1176" />
+      <path
+         d="m 570.53498,437.64008 c 8.1,0 13.05,-5.85 13.05,-14.3 0,-8.8 -4.95,-14.35 -13.05,-14.35 -8.15,0 -13.05,5.55 -13.05,14.35 0,8.45 4.9,14.3 13.05,14.3 z m 0,-7.45 c -6,0 -8.1,-1.15 -8.1,-7.7 0,-6.95 3.1,-9.1 8.1,-9.1 5,0 8.1,2.15 8.1,9.1 0,6.55 -2.1,7.7 -8.1,7.7 z"
+         style="font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic"
+         id="path1178" />
+      <path
+         d="m 623.58492,414.89008 c -1.35,-4 -4.65,-6.1 -8.65,-6.1 -3.5,0 -6.75,1.75 -8.8,5.1 l 0.5,-4.25 h -4.5 l -3.25,27.35 h 6.25 l 1.3,-16.15 c 0.2,-2.75 3.35,-7.4 7.95,-7.4 3.85,0 6.7,3.3 5.7,7.7 l -3.55,15.85 h 6.2 l 2.1,-13.95 c 0.85,-5.5 2.6,-9.3 7.3,-9.3 3.8,0 5.45,2.45 4.9,7.65 l -1.7,15.6 h 6.75 l -0.55,-15 c -0.3,-8 -2.7,-13.2 -8.9,-13.2 -3.85,0 -6.8,1.95 -9.05,6.1 z"
+         style="font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic"
+         id="path1180" />
+      <path
+         d="m 665.98483,432.89008 c 1.35,3.25 4.75,4.85 8.75,4.85 7.9,0 11.2,-7.05 11.2,-14.9 0,-8.25 -4.55,-13.3 -11.2,-13.5 -4,-0.1 -6.9,1.55 -8.75,4.8 l -0.9,-3.75 h -4.5 l 0.8,14.75 -4,22.45 6.45,-0.4 z m 15.55,-11 c 0.2,5.3 -1.15,8.4 -5.9,8.4 -4.75,0 -8.35,-3.1 -8.35,-8.4 0,-5.3 3.95,-8.55 8.1,-8.55 4.15,0 5.95,3.25 6.15,8.55 z"
+         style="font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic"
+         id="path1182" />
+      <path
+         d="m 713.63478,409.54008 c -5.8,0.3 -7.2,1.05 -9.95,3.15 v -2.95 h -4.65 c 0,11.4 -0.25,17.45 -2.3,27.25 h 9.05 c -1.45,-8.2 -1.15,-11.4 -1.15,-14.3 0,-4.85 0.9,-8.7 9.75,-6.85 z"
+         style="font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic"
+         id="path1184" />
+      <path
+         d="m 738.2347,437.64008 c 8.1,0 13.05,-5.85 13.05,-14.3 0,-8.8 -4.95,-14.35 -13.05,-14.35 -8.15,0 -13.05,5.55 -13.05,14.35 0,8.45 4.9,14.3 13.05,14.3 z m 0,-7.45 c -6,0 -8.1,-1.15 -8.1,-7.7 0,-6.95 3.1,-9.1 8.1,-9.1 5,0 8.1,2.15 8.1,9.1 0,6.55 -2.1,7.7 -8.1,7.7 z"
+         style="font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic"
+         id="path1186" />
+      <path
+         d="m 776.48463,437.69008 c 6.65,0 13.25,-6.75 13.25,-15.35 0,-7.2 -5.85,-13.35 -13.25,-13.15 -5.4,0.15 -7.7,5.15 -7.7,1.4 v -16.1 h -6.7 c 1.5,18.15 1.75,35.3 2.8,37.55 1.3,3.6 4.45,5.65 11.6,5.65 z m 1.05,-8 c -6.5,0 -7.6,-2.05 -7.6,-7.15 0,-5.3 2.85,-8.95 7.6,-8.95 4.8,0 7.3,3.8 7.3,8.75 0,4.1 -3.3,7.05 -7.3,7.35 z"
+         style="font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic"
+         id="path1188" />
+      <path
+         d="m 813.23452,437.69008 c 4,0 7.6,-1.55 9.5,-4.8 v 4.1 h 5 l -2.85,-27.35 h -3.55 l 0.1,2.9 c -1.8,-2.9 -4.55,-4 -8.5,-3.45 -2.85,0.4 -8.65,1.95 -10.5,12.3 -1.9,10.6 2.95,16.3 10.8,16.3 z m -0.6,-7.6 c -5.9,0 -7.1,-2.95 -6.5,-7.4 0.95,-6.9 5.05,-9.4 7.85,-9.4 3.35,0 7.05,1.15 7.05,8.75 0,2.45 -0.35,8.05 -8.4,8.05 z"
+         style="font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic"
+         id="path1190" />
+      <path
+         d="m 856.93446,409.54008 c -5.8,0.3 -7.2,1.05 -9.95,3.15 v -2.95 h -4.65 c 0,11.4 -0.25,17.45 -2.3,27.25 h 9.05 c -1.45,-8.2 -1.15,-11.4 -1.15,-14.3 0,-4.85 0.9,-8.7 9.75,-6.85 z"
+         style="font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic"
+         id="path1192" />
+      <path
+         d="m 926.6843,425.94008 0.5,-12.95 h 8.45 l -0.9,-3.35 h -7.45 l 0.35,-9.5 -5.2,3 c -0.2,2.2 -0.35,4.35 -0.5,6.5 h -5.15 l -1.45,3.35 h 6.4 c -0.75,11.3 -1.05,20.55 -1.05,21.5 0,0.35 0.2,2.5 1.9,2.5 2.35,0 11.15,0 13,-0.1 l -0.95,-6.4 c -7.95,-0.2 -8.1,-0.1 -7.95,-4.55 z"
+         style="font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic"
+         id="path1194" />
+      <path
+         d="m 958.58421,437.79008 c 2.9,0 7.1,-0.5 8.8,-5 l -0.2,4.2 h 5.45 l -1,-28 h -4.95 l -0.35,12.75 c -0.15,5.8 -0.4,7.15 -6.75,7.2 -5.85,0.05 -5.45,-1.35 -5.85,-6.8 l -1,-13.15 h -4.8 l 1.05,17.2 c 0.6,9.45 3.45,11.6 9.6,11.6 z"
+         style="font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic"
+         id="path1196" />
+    </g>
+    <g
+       aria-label="respuesta."
+       id="text44242"
+       style="font-size:50px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:Chilanka">
+      <path
+         d="m 101.54484,486.54957 c -5.799997,0.3 -7.199997,1.05 -9.949997,3.15 v -2.95 h -4.65 c 0,11.4 -0.25,17.45 -2.3,27.25 h 9.05 c -1.45,-8.2 -1.15,-11.4 -1.15,-14.3 0,-4.85 0.9,-8.7 9.749997,-6.85 z"
+         style="font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic"
+         id="path1199" />
+      <path
+         d="m 139.29476,498.24957 c -1.6,-9.05 -6.65,-12.8 -12.25,-13.25 -8.25,0 -13.6,6.65 -13.95,15.6 0,8.65 6,14.1 14.7,14.1 3.55,0 6.8,-0.7 10.05,-2.1 v -6.2 c -3.85,1.65 -6.2,2.05 -9.9,1.65 -7.05,-0.75 -10.3,-3.65 -10.3,-8.4 z m -21,-2.45 c 0,-3.3 3.65,-7.1 8.75,-7.45 5.2,-0.35 6.75,2.85 7.25,5.9 z"
+         style="font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic"
+         id="path1201" />
+      <path
+         d="m 171.54475,486.54957 c -2.5,-0.55 -5.5,-1.2 -8.85,-1.2 -8.65,0 -10.4,4.45 -10.4,8.1 0,6.55 6.1,8.05 8.35,8.4 3.5,0.7 6.55,1.7 6.55,3.3 0,2.85 -3.3,2.65 -5.05,2.5 -3.05,-0.25 -4.25,-0.55 -7.15,-1.65 l -4.9,5.55 c 2.2,1.65 2.8,3.15 11.95,3.15 7.55,0 11.4,-1.55 11.4,-8.45 0,-3.9 -1.45,-6 -9.7,-8.55 -4.35,-1.35 -7.65,-2.85 -7.7,-4.45 -0.05,-2.25 0.75,-4.1 7.2,-4.1 1.75,0.1 2.9,0 6,0.4 z"
+         style="font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic"
+         id="path1203" />
+      <path
+         d="m 191.34465,509.89957 c 1.35,3.25 4.75,4.85 8.75,4.85 7.9,0 11.2,-7.05 11.2,-14.9 0,-8.25 -4.55,-13.3 -11.2,-13.5 -4,-0.1 -6.9,1.55 -8.75,4.8 l -0.9,-3.75 h -4.5 l 0.8,14.75 -4,22.45 6.45,-0.4 z m 15.55,-11 c 0.2,5.3 -1.15,8.4 -5.9,8.4 -4.75,0 -8.35,-3.1 -8.35,-8.4 0,-5.3 3.95,-8.55 8.1,-8.55 4.15,0 5.95,3.25 6.15,8.55 z"
+         style="font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic"
+         id="path1205" />
+      <path
+         d="m 233.74452,514.79957 c 2.9,0 7.1,-0.5 8.8,-5 l -0.2,4.2 h 5.45 l -1,-28 h -4.95 l -0.35,12.75 c -0.15,5.8 -0.4,7.15 -6.75,7.2 -5.85,0.05 -5.45,-1.35 -5.85,-6.8 l -1,-13.15 h -4.8 l 1.05,17.2 c 0.6,9.45 3.45,11.6 9.6,11.6 z"
+         style="font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic"
+         id="path1207" />
+      <path
+         d="m 285.7944,498.24957 c -1.6,-9.05 -6.65,-12.8 -12.25,-13.25 -8.25,0 -13.6,6.65 -13.95,15.6 0,8.65 6,14.1 14.7,14.1 3.55,0 6.8,-0.7 10.05,-2.1 v -6.2 c -3.85,1.65 -6.2,2.05 -9.9,1.65 -7.05,-0.75 -10.3,-3.65 -10.3,-8.4 z m -21,-2.45 c 0,-3.3 3.65,-7.1 8.75,-7.45 5.2,-0.35 6.75,2.85 7.25,5.9 z"
+         style="font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic"
+         id="path1209" />
+      <path
+         d="m 318.04438,486.54957 c -2.5,-0.55 -5.5,-1.2 -8.85,-1.2 -8.65,0 -10.4,4.45 -10.4,8.1 0,6.55 6.1,8.05 8.35,8.4 3.5,0.7 6.55,1.7 6.55,3.3 0,2.85 -3.3,2.65 -5.05,2.5 -3.05,-0.25 -4.25,-0.55 -7.15,-1.65 l -4.9,5.55 c 2.2,1.65 2.8,3.15 11.95,3.15 7.55,0 11.4,-1.55 11.4,-8.45 0,-3.9 -1.45,-6 -9.7,-8.55 -4.35,-1.35 -7.65,-2.85 -7.7,-4.45 -0.05,-2.25 0.75,-4.1 7.2,-4.1 1.75,0.1 2.9,0 6,0.4 z"
+         style="font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic"
+         id="path1211" />
+      <path
+         d="m 340.59428,502.94957 0.5,-12.95 h 8.45 l -0.9,-3.35 h -7.45 l 0.35,-9.5 -5.2,3 c -0.2,2.2 -0.35,4.35 -0.5,6.5 h -5.15 l -1.45,3.35 h 6.4 c -0.75,11.3 -1.05,20.55 -1.05,21.5 0,0.35 0.2,2.5 1.9,2.5 2.35,0 11.15,0 13,-0.1 l -0.95,-6.4 c -7.95,-0.2 -8.1,-0.1 -7.95,-4.55 z"
+         style="font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic"
+         id="path1213" />
+      <path
+         d="m 371.54427,514.69957 c 4,0 7.6,-1.55 9.5,-4.8 v 4.1 h 5 l -2.85,-27.35 h -3.55 l 0.1,2.9 c -1.8,-2.9 -4.55,-4 -8.5,-3.45 -2.85,0.4 -8.65,1.95 -10.5,12.3 -1.9,10.6 2.95,16.3 10.8,16.3 z m -0.6,-7.6 c -5.9,0 -7.1,-2.95 -6.5,-7.4 0.95,-6.9 5.05,-9.4 7.85,-9.4 3.35,0 7.05,1.15 7.05,8.75 0,2.45 -0.35,8.05 -8.4,8.05 z"
+         style="font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic"
+         id="path1215" />
+      <path
+         d="m 396.19424,514.09957 h 8.25 v -8.25 h -8.25 z"
+         style="font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic"
+         id="path1217" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="imagenes"
+     sodipodi:insensitive="true">
     <image
        width="88.467873"
        height="86.65004"
        preserveAspectRatio="none"
-       xlink:href="data:image/png;base64,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
-BQAAAABJRU5ErkJggg==
-"
+       xlink:href="data:image/png;base64,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 BQAAAABJRU5ErkJggg== "
        id="image41628"
        x="231.43051"
        y="366.72522" />
-    <text
-       xml:space="preserve"
-       style="font-size:50px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:Chilanka"
-       x="330.33548"
-       y="436.99008"
-       id="text41634"><tspan
-         sodipodi:role="line"
-         id="tspan41632"
-         x="330.33548"
-         y="436.99008"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic">para comprobar tu</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:50px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:Chilanka"
-       x="76.994843"
-       y="513.99957"
-       id="text44242"><tspan
-         sodipodi:role="line"
-         id="tspan44240"
-         x="76.994843"
-         y="513.99957"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic">respuesta.</tspan></text>
+    <image
+       width="63.223598"
+       height="67.838455"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,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 SUVORK5CYII= "
+       id="image39680"
+       x="235.18822"
+       y="200.64978" />
   </g>
 </svg>
